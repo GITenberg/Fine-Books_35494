@@ -1,0 +1,33 @@
+_repo: Fine-Books_35494
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35494-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pollard, Alfred W. (Alfred William)
+    aliases:
+    - Pollard, A. W. (Alfred William)
+    - Pollard, Alfred William
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '7475'
+    url: http://www.gutenberg.org/2009/agents/7475
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
+description: ''
+gutenberg_issued: '2011-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35494'
+  lccn: '12029956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Printing -- History'
+- !lcsh 'Illustration of books'
+- !lcc 'Z'
+- !lcsh 'Illustrated books -- Bibliography'
+title: Fine Books
+url: http://www.gutenberg.org/ebooks/35494
