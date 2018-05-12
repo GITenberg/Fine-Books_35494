@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7475
     wikipedia: http://en.wikipedia.org/wiki/Alfred_W._Pollard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35494#Fine-Books
 gutenberg_issued: '2011-03-06'
 gutenberg_type: Text
 identifiers:
